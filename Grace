@@ -1,0 +1,8 @@
+Grace_0.2.6 
+
+51APP
+2.6版本
+修复了已知bug！（比如功能3下的闪退问题）
+
+如果github访问较慢，可以去gitee上下载
+https://gitee.com/Elegance-WNB/51-listening
